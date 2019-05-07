@@ -1,6 +1,6 @@
 # REACT TUTORIEL
 -----------------
-![https://www.github.com/tuyengabi](./src/assets/ap-react.jpg)
+![https://www.github.com/tuyengabi](./src/assets/ap-react.jpeg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
