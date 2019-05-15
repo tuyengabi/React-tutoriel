@@ -4,10 +4,10 @@ import Input from './Input.js'
 import List from './List.js'
 
 
-class App extends Component {
+class TodoList extends Component {
   render() {
     return (
-    <div className="container">
+    <div className="todoListMain">
       <Header></Header>
       <Input></Input>
       <List></List>
@@ -16,4 +16,4 @@ class App extends Component {
   }
 }
 
-export default App
+export default TodoList
