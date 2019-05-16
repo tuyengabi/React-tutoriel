@@ -37,12 +37,11 @@ class TodoList extends Component {
   }
 
   render() {
-    const { itemData, addItem } = this.props
 
     return (
       <div className="todoListMain">
         <Header></Header>
-        <Input itemData={ this.state.item } addItem={ this.state.addItem }></Input>
+        <Input item={  } addItem={ newItem.text }></Input>
         <List></List>
       </div>
     )
